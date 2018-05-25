@@ -1,0 +1,7 @@
+{
+  "unit5_assignment_01.py::test_de_dup_and_sort": true,
+  "unit5_assignment_01.py::test_de_dup_and_sort_server": true,
+  "unit5_assignment_03.py::test_are_anagrams_server": true,
+  "unit5_assignment_05.py::test_prune_either_or_server": true,
+  "unit7_assignment_01.py::test_anagram_sort": true
+}
